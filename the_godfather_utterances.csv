@@ -1,0 +1,360 @@
+id,text,character,conversation_id,reply_to
+L593445,You owe the Don a service.  He has no doubt that you will repay it.,HAGEN,L593443,L593444
+L593443,"This is Tom Hagen; I'm calling for Don Corleone, at his request.",HAGEN,L593443,
+L593425,Yes.,HAGEN,L593422,L593424
+L593423,Good.  He never doubted you.,HAGEN,L593422,L593422
+L593421,"You owe the Don a service.  In one hour, not before, perhaps later, he will be at your funeral parlor to ask for your help.  Be there to greet him.  If you have any objections speak now, and I'll inform him.",HAGEN,L593420,L593420
+L593432,"I want you to use all your powers, all your skill, as you love me.  I do not want his mother to see him as he is.",DON CORLEONE,L593431,L593431
+L592864,"Some day, and that day may never come, I would like to call upon you to do me a service in return.",DON CORLEONE,L592861,L592863
+L592862,Good.  From me you'll get Justice.,DON CORLEONE,L592861,L592861
+L592860,"Then take the justice from the judge, the bitter with the sweet, Bonasera.  But if you come to me with your friendship, your loyalty, then your enemies become my enemies, and then, believe me, they would fear you...",DON CORLEONE,L592858,L592859
+L592858,"You never think to protect yourself with real friends.  You think it's enough to be an American.  All right, the Police protects you, there are Courts of Law, so you don't need a friend like me. But now you come to me and say Don Corleone, you must give me justice. And you don't ask in respect or friendship.  And you don't think to call me Godfather; instead you come to my house on the day my daughter is to be married and you ask me to do murder...for money.",DON CORLEONE,L592858,
+L592856,But your daughter is still alive.,DON CORLEONE,L592852,L592855
+L592854,The Court gave you justice.,DON CORLEONE,L592852,L592853
+L592852,No.  You ask for too much.,DON CORLEONE,L592852,
+L592851,And what is that Bonasera?,DON CORLEONE,L592849,L592850
+L592849,"Bonasera, we know each other for years, but this is the first time you come to me for help.  I don't remember the last time you invited me to your house for coffee...even though our wives are friends.",DON CORLEONE,L592849,
+L593724,"Good, good.  Leave now; there's a car waiting to take you to the airport.",MICHAEL,L593722,L593723
+L593722,"Don't be frightened.  Do you think I'd make my sister a widow?  Do you think I'd make your children fatherless?  After all, I'm Godfather to your son.  No, your punishment is that you're out of the family business.  I'm putting you on a plane to Vegas--and I want you to stay there.  I'll send Connie an allowance, that's all. But don't keep saying you're innocent; it insults my intelligence and makes me angry.  Who approached you, Tattaglia or Barzini?",MICHAEL,L593722,
+L593721,"Barzini is dead.  So is Philip Tattaglia, so are Strachi, Cuneo and Moe Greene...I want to square all the family accounts tonight. So don't tell me you're innocent; admit what you did.",MICHAEL,L593719,L593720
+L593719,You fingered Sonny for the Barzini people.  That little farce you played out with my sister.  Did Barzini kid you that would fool a Corleone?,MICHAEL,L593719,
+L593718,You have to answer for Santino.,MICHAEL,L593717,L593717
+L593704,Go back to your house and wait for me...,MICHAEL,L593703,L593703
+L593638,I'll come to you when I need you.,MICHAEL,L593637,L593637
+L593327,We gotta move...,CLEMENZA,L593324,L593326
+L593326,"You're on, kid...I'll square it with Mom your not seeing her before you left.  And I'll get a message to your girl friend when I think the time is right.",SONNY,L593324,L593325
+L593325,The gun will be there.,CLEMENZA,L593324,L593324
+L593324,"I want somebody very good, very safe to plant that gun.  I don't want my brother coming out of that toilet with just his dick in his hand.",SONNY,L593324,
+L593235,"OK, but be careful.",SONNY,L593234,L593234
+L593234,Sollozzo knows Mike's a civilian.,CLEMENZA,L593234,
+L593229,You won't see Paulie anymore.  He's sick for good this winter.,CLEMENZA,L593228,L593228
+L593228,You take care of Paulie?,SONNY,L593228,
+L593185,"Okay, now you can move your men into the Mall, replace Tessio's people.  Mike, tomorrow you take a couple of Clemenza's people and go to Luca's apartment and wait for him to show.  That crazy bastard might be going after Sollozzo right now if he's heard the news.",SONNY,L593183,L593184
+L593184,Understood.,CLEMENZA,L593183,L593183
+L593183,Clemenza.  You take care of Paulie. I don't ever want to see him again. Understood?,SONNY,L593183,
+L593099,"No, just you and Paulie.",SONNY,L593090,L593098
+L593098,That's all?  Don't you want me to send some people over here?,CLEMENZA,L593090,L593097
+L593097,"Go get Paulie, I don't care how sick he is.  Pick him up yourself, and bring him to my father's house.",SONNY,L593090,L593096
+L593096,"Maybe three, four times.  I always asked Freddie if he wanted another bodyguard, but he said no.  Things have been so smooth the last ten years...",CLEMENZA,L593090,L593095
+L593095,How many times did he stay home the last couple of months?,SONNY,L593090,L593094
+L593094,Paulie's been a little sick all winter...he was home.,CLEMENZA,L593090,L593093
+L593093,"Where the hell was Paulie, why wasn't he with the Don?",SONNY,L593090,L593092
+L593092,The word is out in the streets that he's dead.,CLEMENZA,L593090,L593091
+L593091,Yeah.,SONNY,L593090,L593090
+L593090,You heard about your father?,CLEMENZA,L593090,
+L593628,Maybe less...,MICHAEL,L593626,L593627
+L593627,Then in a six month time we're on our own; is that it?,CLEMENZA,L593626,L593626
+L593626,"He's going to be our lawyer in Vegas.  Nobody goes to him with any other business as of now, this minute.  No reflection on Tom; that's the way I want it.  Besides, if I ever need any advice, who's a better Consigliere than my father.",MICHAEL,L593626,
+L593620,"No, I don't want to give Barzini an excuse to start fighting.",MICHAEL,L593619,L593619
+L593619,We gotta fight sometime.  Let us at least recruit our regimes to full strength.,CLEMENZA,L593619,
+L593312,"Probably all the other families will line up against us.  But, it's alright.  These things have to happen once every ten years or so...gets rid of the bad blood. You gotta stop 'em at the beginning. Like they shoulda stopped Hitler at Munich, they shoulda never let him get away with that, they were just asking for big trouble...",CLEMENZA,L593310,L593311
+L593311,How bad will it be?,MICHAEL,L593310,L593310
+L593310,Mostly it gives witnesses an excuse to change their identification when we make them see the light.  Then you take a long vacation and we catch the hell.,CLEMENZA,L593310,
+L593208,"Maybe, or you gotta know now.",CLEMENZA,L593207,L593207
+L593202,"OK, go to Arthur Avenue; I'm suppose to call when I found somethin'.",CLEMENZA,L593201,L593201
+L593199,Drive while you thinking; I wanna get to the City this month!,CLEMENZA,L593198,L593198
+L593181,Outside.,CLEMENZA,L593181,
+L593175,"I tol' you to stay put, Paulie...",CLEMENZA,L593175,
+L592872,"What are you, a dance judge?  Go do your job; take a walk around the neighborhood... see everything is okay.",CLEMENZA,L592871,L592871
+L593024,No.,DON CORLEONE,L593022,L593023
+L593022,"No...how a man makes his living is none of my business.  But this proposition of yours is too risky. All the people in my family lived well the last ten years, I won't risk that out of greed.",DON CORLEONE,L593022,
+L593018,"So.  I receive 30 per cent just for finance and legal protection.  No worries about operations, is that what you tell me?",DON CORLEONE,L593017,L593017
+L593016,And what is the percentage of the Tattaglia family?,DON CORLEONE,L593011,L593015
+L593014,What percentages for my family?,DON CORLEONE,L593011,L593013
+L593012,Why do you come to me?  Why do I deserve your generosity?,DON CORLEONE,L593011,L593011
+L592971,I'll make him an offer he can't refuse.,DON CORLEONE,L592969,L592970
+L592969,"You look terrible.  I want you to eat well, to rest.  And spend time with your family.  And then, at the end of the month, this big shot will give you the part you want.",DON CORLEONE,L592969,
+L592967,You take care of your family?,DON CORLEONE,L592967,
+L592965,"All right, Hollywood...Now tell me about this Hollywood Pezzonovanta who won't let you work.",DON CORLEONE,L592965,
+L592956,"Can I do something for you still? You're not too rich, or too famous that I can't help you?",DON CORLEONE,L592955,L592955
+L593651,Maybe I can help.,HAGEN,L593650,L593650
+L593650,"Tom, I never thought you were a bad Consigliere, I thought Santino a bad Don, rest in peace.  He had a good heart but he wasn't the right man to head the family when I had my misfortune.  Michael has all my confidence, as you do.  For reasons which you can't know, you must have no part in what will happen.",DON CORLEONE,L593650,
+L593461,"Tattaglia is a pimp.  He could never have outfought Santino.  But I wasn't sure until this day.  No, it was Barzini all along.",DON CORLEONE,L593456,L593460
+L593460,He was the one behind Sollozzo?,HAGEN,L593456,L593459
+L593459,Barzini.,DON CORLEONE,L593456,L593458
+L593458,You mean Tattaglia.,HAGEN,L593456,L593457
+L593457,"Mention it, don't insist.  Barzini is a man who will know that without being told.",DON CORLEONE,L593456,L593456
+L593456,When I meet with Tattaglia's people; should I insist that all his drug middle-men be clean?,HAGEN,L593456,
+L593439,Now you've had your drink.,DON CORLEONE,L593435,L593438
+L593438,Yes.,HAGEN,L593435,L593437
+L593437,But you needed a drink first.,DON CORLEONE,L593435,L593436
+L593436,I didn't tell Mama anything.  I was about to come up and wake you and tell you.  Just now.,HAGEN,L593435,L593435
+L593435,"My wife was weeping before she fell asleep, outside my window I saw my caporegimes to the house, and it is midnight.  So, Consigliere of mine, I think you should tell your Don what everyone knows.",DON CORLEONE,L593435,
+L593030,It's from Johnny.  It was announced this morning.  He's going to play the lead in the new Woltz Brothers film.,HAGEN,L593029,L593029
+L593029,What is this nonsense?,DON CORLEONE,L593029,
+L592976,I've called the hospital; they've notified Consiglere Genco's family to come and wait.  He won't last out the night.,HAGEN,L592973,L592975
+L592975,"No, give him a living.  But never let him know the family's business. What else, Tom?",DON CORLEONE,L592973,L592974
+L592974,"They'll cut the cake in a few minutes...leave right after that. Your new son-in-law, do we give him something important?",HAGEN,L592973,L592973
+L592973,When does my daughter leave with her bridegroom?,DON CORLEONE,L592973,
+L592949,It's been two years.  He's probably in trouble again.,HAGEN,L592946,L592948
+L592948,No.  Let the people enjoy him.  You see?  He is a good godson.,DON CORLEONE,L592946,L592947
+L592947,Should I bring him in.,HAGEN,L592946,L592946
+L592946,It is Johnny.  He came all the way from California to be at the wedding.,DON CORLEONE,L592946,
+L592944,"On a day like this.  Consiglero, do you also have in your notes the the Turk made his living from Prostitution before the war, like the Tattaglias do now.  Write that down before you forget it.  The Turk will wait.",DON CORLEONE,L592939,L592943
+L592943,This morning.,HAGEN,L592939,L592942
+L592942,When did he call?,DON CORLEONE,L592939,L592941
+L592941,"Two terms; one in Italy, one in the United States.  He's known to the Government as a top narcotics man. That could be a plus for us; he could never get immunity to testify.",HAGEN,L592939,L592940
+L592940,And with prison record.,DON CORLEONE,L592939,L592939
+L592939,"He's his own boss, and very competent.",HAGEN,L592939,
+L592937,"The Senator called--apologized for not coming personally, but said you'd understand.  Also, some of the Judges...they've all sent gifts. And another call from Virgil Sollozzo.",HAGEN,L592936,L592936
+L592936,I'm sure it's the most generous gift today.,DON CORLEONE,L592936,
+L592890,You understand him better than anyone.,HAGEN,L592889,L592889
+L592889,Is it necessary?,DON CORLEONE,L592889,
+L593663,Good.,DON CORLEONE,L593661,L593662
+L593662,Yes.,MICHAEL,L593661,L593661
+L593661,Your wife and children...you're happy with them?,DON CORLEONE,L593661,
+L593659,"He will get in touch with you through someone you absolutely trust.  That person will arrange a meeting, guarantee your safety...",DON CORLEONE,L593657,L593658
+L593658,How?,MICHAEL,L593657,L593657
+L593657,Barzini will move against you first.,DON CORLEONE,L593657,
+L593656,"There are men in this world who demand to be killed.  They argue in gambling games; they jump out of their cars in a rage if someone so much as scratches their fender. These people wander through the streets calling out ""Kill me, kill me.""  Luca Brasi was like that. And since he wasn't scared of death, and in fact, looked for it...I made him my weapon.  Because I was the only person in the world that he truly hoped would not kill him.  I think you have done the same with this man.",DON CORLEONE,L593654,L593655
+L593655,I'll need him.,MICHAEL,L593654,L593654
+L593654,I see you have your Luca Brasi.,DON CORLEONE,L593654,
+L593644,How did you find out?,MICHAEL,L593643,L593643
+L593643,I told you that it wouldn't escape his eye.,DON CORLEONE,L593643,
+L593553,What else do you believe in?,DON CORLEONE,L593541,L593552
+L593552,A man has to choose what he will be. I believe that.,MICHAEL,L593541,L593551
+L593551,"You are like me, we refuse to be fools, to be puppets dancing on a string pulled by other men.  I hoped the time for guns and killing and massacres was over.  That was my misfortune.  That was your misfortune.  I was hunted on the streets of Corleone when I was twelve years old because of who my father was.  I had no choice.",DON CORLEONE,L593541,L593550
+L593550,Then why have I become a man like you?,MICHAEL,L593541,L593549
+L593549,"Yes, but sons who would be professors, scientists, musicians...and grandchildren who could be, who knows, a Governor, a President even, nothing's impossible here in America.",DON CORLEONE,L593541,L593548
+L593548,You wanted me to be your son.,MICHAEL,L593541,L593547
+L593547,"No, I wanted other things for you.",DON CORLEONE,L593541,L593546
+L593546,"I could accept everything that's happened; I could accept it, but that I never had a choice.  From the time I was born, you had laid this all out for me.",MICHAEL,L593541,L593545
+L593545,"Accept what's happened, Michael.",DON CORLEONE,L593541,L593544
+L593544,"I want children, I want a family. But I don't know when.",MICHAEL,L593541,L593543
+L593543,"I understand, Michael.  But you must make a family, you know.",DON CORLEONE,L593541,L593542
+L593542,No.,MICHAEL,L593541,L593541
+L593541,Have you thought about a wife?  A family?,DON CORLEONE,L593541,
+L592991,"Good.  When you are finished, come and talk to me.  I have hopes for you.",DON CORLEONE,L592983,L592990
+L592990,I'm going to finish school.,MICHAEL,L592983,L592989
+L592989,"And now, what do you choose to do?",DON CORLEONE,L592983,L592988
+L592988,I fought for my country.  It was my choice.,MICHAEL,L592983,L592987
+L592987,What miracles you do for strangers.,DON CORLEONE,L592983,L592986
+L592986,For killing a man.,MICHAEL,L592983,L592985
+L592985,And this?,DON CORLEONE,L592983,L592984
+L592984,For bravery.,MICHAEL,L592983,L592983
+L592983,What was this for?,DON CORLEONE,L592983,
+L592982,Tom said he'd take care of it.,MICHAEL,L592981,L592981
+L592981,Will your girl friend get back to the city all right?,DON CORLEONE,L592981,
+L592880,"Tom, what we need is an Act of Congress to allow Enzo to become a citizen.",DON CORLEONE,L592875,L592879
+L592878,You want him to stay in this country.,DON CORLEONE,L592875,L592877
+L592876,"Nazorine, my friend, tell me what I can do.",DON CORLEONE,L592875,L592875
+L593526,What is it?,MICHAEL,L593522,L593525
+L593524,Is that why there are more men on the walls?,MICHAEL,L593522,L593523
+L593522,Things went badly in Palermo?,MICHAEL,L593522,
+L593474,No...I would like to walk to Corleone.,MICHAEL,L593473,L593473
+L593472,Don Tommassino...I should see this place.,MICHAEL,L593462,L593471
+L593470,I was told that my Grandfather was murdered on its main street; and his murderers came to kill my father there when he was twelve years old.,MICHAEL,L593462,L593469
+L593468,Corleone.,MICHAEL,L593462,L593467
+L593466,I know.,MICHAEL,L593462,L593465
+L593464,Calo and Fabrizzio are with me; nothing will happen.,MICHAEL,L593462,L593463
+L593462,Don Tommassino.,MICHAEL,L593462,
+L593530,"No, she's going home to her family. She'll join me in a few weeks...",MICHAEL,L593528,L593529
+L593528,Get the car.  I'll be leaving in ten minutes.  Where's Calo?,MICHAEL,L593528,
+L593487,Shhhhh.,MICHAEL,L593486,L593486
+L593481,Yes.,MICHAEL,L593476,L593480
+L593479,Only the son of a Pezzonovanta.,MICHAEL,L593476,L593478
+L593477,How do you know I come from America?,MICHAEL,L593476,L593476
+L593599,"The Don has semi-retired.  I'm running the Family business now. So anything you have to say, say it to me.",MICHAEL,L593598,L593598
+L593575,I'll make him an offer he can't refuse.,MICHAEL,L593574,L593574
+L593572,Get rid of them...,MICHAEL,L593568,L593571
+L593570,Give them some money and send them home.,MICHAEL,L593568,L593569
+L593568,Who are those girls?,MICHAEL,L593568,
+L593567,"Come here a minute, Fredo.",MICHAEL,L593566,L593566
+L593565,No.,MICHAEL,L593564,L593564
+L593561,"You look good, too.",MICHAEL,L593560,L593560
+L593558,Why didn't Moe Green meet us at the airport?,MICHAEL,L593558,
+L593393,"Well it's war!  We might not be in this shape if we had a real war- time Consiglere, a Sicilian.  Pop had Genco, who do I have?  Hey Tom, hey...hey.  It's Sunday, we're gonna have dinner.  Don't be sore.",SONNY,L593389,L593392
+L593392,"Yes.  That's true, you're getting a hell of a reputation.",HAGEN,L593389,L593391
+L593391,"No more stalemate Tom, we got the soldiers, we'll match them gun for gun if that's how they want it. They know me for what I am, Tom-- and they're scared of me.",SONNY,L593389,L593390
+L593390,"You start operating, the five families will start their raids again.  We're at a stalemate Sonny, your war is costing us a lot of money.",HAGEN,L593389,L593389
+L593389,We'll let the old man take it easy for a couple of weeks.  I want to get things going good before he gets better.  What's the matter with you?,SONNY,L593389,
+L593384,We put out a lot of material through our contacts in the Newspapers...about McCluskey's being tied up with Sollozzo in the Drug Rackets...things are starting to loosen up.,HAGEN,L593383,L593383
+L593383,"Pop, they hit us and we hit them back.",SONNY,L593383,
+L593331,Can you do it Mike?,SONNY,L593330,L593330
+L593330,"Jesus, I don't know...",HAGEN,L593330,
+L593321,No.  Our informer in McCluskey's precinct.  Tonight at 8:00 he signed out for Louis' Restaurant in the Bronx.  Anyone know it.,HAGEN,L593320,L593320
+L593320,One of Tattaglia's people?,SONNY,L593320,
+L593299,McCluskey can't stay with the Turk forever.  We'll wait.,SONNY,L593298,L593298
+L593298,"I found out about this Captain McCluskey who broke Mike's jaw. He's definitely on Sollozzo's payroll, and for big money. McCluskey's agreed to be the Turk's bodyguard.  What you have to understand is that while Sollozzo is guarded like this, he's invulnerable.  Nobody has ever gunned down a New York Police Captain.  Never.  It would be disastrous.  All the five families would come after you Sonny; the Corleone family would be outcasts; even the old man's political protection would run for cover.  So just...take that into consideration.",HAGEN,L593298,
+L593297,"No no, no more advice on how to patch it up Tom.  You just help me win.  Understood?",SONNY,L593286,L593296
+L593296,"Yes, even the shooting of your father was business, not personal...",HAGEN,L593286,L593295
+L593295,And when they shot me father...,SONNY,L593286,L593294
+L593294,"Come ON Sonny, your father wouldn't want to hear this.  This is not a personal thing, this is Business.",HAGEN,L593286,L593293
+L593293,Then THEY hand me Sollozzo.,SONNY,L593286,L593292
+L593292,The other families won't sit still for all out war.,HAGEN,L593286,L593291
+L593291,"No, no Consiglere.  Not this time. No more meetings, no more discussions, no more Sollozzo tricks.  Give them one message: I WANT SOLLOZZO.  If not, it's all out war.  We go to the mattresses and we put all the button men out on the street.",SONNY,L593286,L593290
+L593290,We should hear what they have to say.,HAGEN,L593286,L593289
+L593289,Part of the deal: Bruno cancels out what they did to my father.,SONNY,L593286,L593288
+L593288,What about that Tattaglias?  What will they do about Bruno?,HAGEN,L593286,L593287
+L593287,"Sure, he wants us to send Mike to meet him to hear his proposition. The promise is the deal will be so good we can't refuse.",SONNY,L593286,L593286
+L593286,Was there a definite proposal?,HAGEN,L593286,
+L593187,"OK forget it, just stay on the phone.",SONNY,L593186,L593186
+L593186,Maybe Mike shouldn't get mixed up in this so directly.  You know the old man doesn't want that.,HAGEN,L593186,
+L593173,"OK, we sit tight until the old man can give us the lead.  But Tom, I want you to stay inside the Mall. You too, Mike, no chances.  Tessio, you hold your people in reserve, but have them nosing around the city.  The hospital is yours; I want it tight, fool-proof, 24 hours a day.",SONNY,L593167,L593172
+L593172,We're all tired...,HAGEN,L593167,L593171
+L593171,"Oh Christ Tom, I didn't mean it that way.",SONNY,L593167,L593170
+L593170,I was as good a son to him as you or Mike.,HAGEN,L593167,L593169
+L593169,That's easy to say; it's not your father.,SONNY,L593167,L593168
+L593168,"Without your father's political contacts and personal influence, the Corleone family loses half its strength.  Without your father, the other New York families might wind up supporting Sollozzo, and the Tattaglias just to make sure there isn't a long destructive war.  The old days are over, this is 1946; nobody wants bloodshed anymore.  If your father dies...make the deal, Sonny.",HAGEN,L593167,L593167
+L593167,"Tom, you're the Consigliere, what do we do if the old man dies?",SONNY,L593167,
+L593165,"Luca never sleeps over with a broad. He always goes home when he's through.  Mike, keep ringing Luca's number.",HAGEN,L593161,L593164
+L593164,"No, and I've been calling all night. Maybe he's shacked up.",SONNY,L593161,L593163
+L593163,Has anyone been able to get in touch with him?,HAGEN,L593161,L593162
+L593162,If Luca sold out we're in real trouble.,SONNY,L593161,L593161
+L593161,What about Luca?  Sollozzo didn't seem worried about Luca.  That worries me.,HAGEN,L593161,
+L593159,The cops have it locked in and I got my people there visiting Pop all the time.  What about the hit list.,SONNY,L593158,L593158
+L593158,Is the hospital covered?,HAGEN,L593158,
+L592963,Okay.  One minute.,SONNY,L592962,L592962
+L592962,The old man wants you; Johnny's here...he's got a problem.,HAGEN,L592962,
+L593376,"Mama, no.",HAGEN,L593375,L593375
+L593371,"If I accept that letter and you told a Court of Law I accepted it, they would interpret it as my having knowledge of his whereabouts. Just wait Kay, he'll contact you.",HAGEN,L593370,L593370
+L593367,An accident.  No one was hurt.,HAGEN,L593366,L593366
+L593365,"Nobody knows where he is.  We know he's all right, but that's all.",HAGEN,L593363,L593364
+L593363,"Kay, we weren't expecting you.  You should call...",HAGEN,L593363,
+L593124,I'll try...It's what the Don would want us to do.,HAGEN,L593121,L593123
+L593122,Even Sonny won't be able to call off Luca Brasi.,HAGEN,L593121,L593121
+L593119,Sonny will come after you with everything he's got.,HAGEN,L593118,L593118
+L593009,I'm German-Irish.,HAGEN,L593005,L593008
+L593007,He never asks a second favor when he has been refused the first. Understood?,HAGEN,L593005,L593006
+L593005,"Mr. Corleone is Johnny's Godfather. That is very close, a very sacred religious relationship.",HAGEN,L593005,
+L593684,"A week from tonight.  In Brooklyn on Tessio's ground, where I'll be safe.",MICHAEL,L593678,L593683
+L593683,Have you agreed on a meeting?,HAGEN,L593678,L593682
+L593682,I know now.  I'll make them call me Don.,MICHAEL,L593678,L593681
+L593681,How will they come at you?,HAGEN,L593678,L593680
+L593680,Not all...I needed another four months and I would have had them all.  I guess you've figured it all out?,MICHAEL,L593678,L593679
+L593679,Did he give you his politicians?,HAGEN,L593678,L593678
+L593678,"Christ, Tom; I needed more time with him.  I really needed him.",MICHAEL,L593678,
+L593649,"OK, but then I agree with Tessio. You're going about it all wrong; you're making the move out of weakness... Barzini's a wolf, and if he tears you apart, the other families won't come running to help the Corleones...",HAGEN,L593645,L593648
+L593648,You're not a wartime Consigliere. Things may get tough with the move we're trying.,MICHAEL,L593645,L593647
+L593647,"Mike, why am I out?",HAGEN,L593645,L593646
+L593646,Not so perfectly if you noticed.,MICHAEL,L593645,L593645
+L593645,Bookkeepers know everything. Rocco's men are all a little too good for the jobs they're supposed to be doing.  They get a little more money than the job's worth.  Lampone's a good man; he's operating perfectly.,HAGEN,L593645,
+L593642,"I'm not talking about that.  I'm talking about Rocco Lampone building a secret regime.  Why does Neri report directly to you, rather than through me or a caporegime?",HAGEN,L593640,L593641
+L593641,"Tom, we're going to be legitimate all the way, and you're the legal man.  What could be more important than that.",MICHAEL,L593640,L593640
+L593640,"Mike, why are you cutting me out of the action?",HAGEN,L593640,
+L593303,Let's say now that we have to kill McCluskey.  We'll clear that up through our Newspaper contacts later.,MICHAEL,L593302,L593302
+L593302,What about McCluskey?,HAGEN,L593302,
+L593049,Right.,HAGEN,L593047,L593048
+L593048,"No.  I guess I'll see you Christmas. Everyone's going to be out at Long Beach, right?",MICHAEL,L593047,L593047
+L593047,Sure.  Anything I can do for you.,HAGEN,L593047,
+L592929,Thanks Tom.,MICHAEL,L592928,L592928
+L592928,"Hello Kay.  Your father's inside, doing some business.  He's been asking for you.",HAGEN,L592928,
+L593746,"All right, this one time I'll let you ask about my affairs, one last time.",MICHAEL,L593743,L593745
+L593744,Don't ask me.,MICHAEL,L593743,L593743
+L593614,"Let me think about it, O.K.?",MICHAEL,L593613,L593613
+L593611,I'm busy.,MICHAEL,L593610,L593610
+L593608,Let HER ask.,MICHAEL,L593607,L593607
+L593605,"No, you eat...don't wait up for me.",MICHAEL,L593601,L593604
+L593603,We'll go to the show tomorrow night--we can change the tickets.,MICHAEL,L593601,L593602
+L593601,I have to see my father and his people when we get back to the Mall.,MICHAEL,L593601,
+L593244,Goodbye.,MICHAEL,L593243,L593243
+L593242,I want you to go back to New Hampshire...think things over.,MICHAEL,L593236,L593241
+L593240,I don't think so either.  I better go.,MICHAEL,L593236,L593239
+L593238,I don't think so.  You don't want to end up on page 3 of the Daily News.,MICHAEL,L593236,L593237
+L593236,Visiting hour ends at eight thirty. I'll just sit with him; I want to show respect.,MICHAEL,L593236,
+L593225,"Look.  I'll see you tonight, OK?",MICHAEL,L593223,L593224
+L593223,I can't...,MICHAEL,L593223,
+L593221,Huh?,MICHAEL,L593218,L593220
+L593219,"Yeah Kay, I'm here.",MICHAEL,L593218,L593218
+L593216,He'll be OK.,MICHAEL,L593214,L593215
+L593214,Hello.  Kay?,MICHAEL,L593214,
+L593067,"No, I would not like you better if you were Ingrid Bergman.",MICHAEL,L593064,L593066
+L593065,I'm thinking about it.,MICHAEL,L593064,L593064
+L593062,No.,MICHAEL,L593061,L593061
+L593044,"Shhh, you be the long distance operator.  Here.",MICHAEL,L593043,L593043
+L593041,"Then we can have dinner, see a show, and spend one more night.",MICHAEL,L593036,L593040
+L593039,For dinner.  Unless I call and tell them we're still in New Hampshire.,MICHAEL,L593036,L593038
+L593037,"As long as I tell him beforehand he won't object.  He'll be hurt, but he won't object.",MICHAEL,L593036,L593036
+L593033,And what do you want for Christmas?,MICHAEL,L593032,L593032
+L592953,He's my father's godson; he owes him his whole career.,MICHAEL,L592950,L592952
+L592951,Sure.,MICHAEL,L592950,L592950
+L592931,"My brother Sonny found him living in the streets when he was a kid, so my father took him in.  He's a good lawyer.",MICHAEL,L592930,L592930
+L592927,"My brother, Tom Hagen.",MICHAEL,L592925,L592926
+L592925,"Tom...Tom, I'd like you to meet Kay Adams.",MICHAEL,L592925,
+L592923,I told you you wouldn't like him.,MICHAEL,L592922,L592922
+L592921,...who out of sheer terror had swallowed the bath towel in his mouth and suffocated.,MICHAEL,L592911,L592920
+L592919,Then Luca turned to the other man...,MICHAEL,L592911,L592918
+L592917,Then the thighs where they joined the torso.,MICHAEL,L592911,L592916
+L592915,Then the legs at the knees...,MICHAEL,L592911,L592914
+L592913,"My Father sent Luca Brasi after them.  He tied the two Capone men hand and foot, and stuffed small bath towels into their mouths. Then he took an ax, and chopped one man's feet off...",MICHAEL,L592911,L592912
+L592911,"Once upon a time, about fifteen years ago some people wanted to take over my father's olive oil business.  They had Al Capone send some men in from Chicago to kill my father, and they almost did.",MICHAEL,L592911,
+L592910,Then eat your spaghetti and I'll tell you a Luca Brasi story.,MICHAEL,L592904,L592909
+L592908,You like spaghetti?,MICHAEL,L592904,L592907
+L592906,You really want to know?,MICHAEL,L592904,L592905
+L592904,No.  His name is Luca Brasi.  You wouldn't like him.,MICHAEL,L592904,
+L592898,Because they know that no Sicilian will refuse a request on his daughter's wedding day.,MICHAEL,L592893,L592897
+L592896,"They're going to talk to my father, which means they're going to ask him for something, which means they better get it right.",MICHAEL,L592893,L592895
+L592894,They're waiting to see my father.,MICHAEL,L592893,L592893
+L592892,I told you I had a lot of relatives.,MICHAEL,L592891,L592891
+L593258,You've read about my father in the papers.  You've seen that no one's here to guard him.  Now I've just gotten word that men are coming to this hospital to kill him.  Believe me and help me.,MICHAEL,L593255,L593257
+L593256,You and I are going to move my father right now...to another room on another floor...Can you disconnect those tubes so we can wheel the bed out?,MICHAEL,L593255,L593255
+L593251,You just stand here one minute...,MICHAEL,L593249,L593250
+L593249,I'm Michael Corleone--this is my father.  What happened to the detectives who were guarding him?,MICHAEL,L593249,
+L593329,Probably a year...,SONNY,L593328,L593328
+L593328,O.K.  How long do you think before I can come back?,MICHAEL,L593328,
+L593316,"Sollozzo and McCluskey are going to pick you up in an hour and a half on Times Square, under the big Camels sign.",SONNY,L593313,L593315
+L593315,A million times.,MICHAEL,L593313,L593314
+L593314,"What are you, inspecting the barracks?  You ready?  Did Clemenza tell you be sure to drop the gun right away?",SONNY,L593313,L593313
+L593313,Why don't you stop living like a bum and get this place cleaned up.,MICHAEL,L593313,
+L593305,"They want me to go to the conference with Sollozzo.  Set up the meeting for two days from now.  Sonny, get our informers to find out where the meeting will be held. Insist it has to be a public place: a bar or restaurant at the height of the dinner hour.  So I'll feel safe.  They'll check me when I meet them so I won't be able to carry a weapon; but Clemenza, figure out a way to have one planted there for me.  Then I'll kill them both.",MICHAEL,L593304,L593304
+L593304,Go on Mike.,SONNY,L593304,
+L593301,The kid's right.,SONNY,L593300,L593300
+L593300,"We can't wait.  No matter what Sollozzo say about a deal, he's figuring out how to kill Pop.  You have to get Sollozzo now.",MICHAEL,L593300,
+L593285,The Turk wants to talk!  The nerve of that son of a bitch!  After he craps out last night he wants a meet.,SONNY,L593283,L593284
+L593284,Cut it out.,MICHAEL,L593283,L593283
+L593283,"Mikey, you look beautiful!",SONNY,L593283,
+L593254,I won't panic.,MICHAEL,L593252,L593253
+L593253,"All right, get him in a different room; lock the door from the inside. I'll have some men there inside of fifteen minutes.  Sit tight, and don't panic.",SONNY,L593252,L593252
+L593252,"Sonny...Sonny--Jesus Christ, I'm down at the hospital.  I came down late.  There's no one here.  None of Tessio's people--no detectives, no one.  The old man is completely unprotected.",MICHAEL,L593252,
+L593233,"I don't need them, Sonny.  I'm just going to see Pop in the hospital. Also, I got other things.",MICHAEL,L593230,L593232
+L593232,Send some bodyguards.,SONNY,L593230,L593231
+L593231,To the city.,MICHAEL,L593230,L593230
+L593230,Where are you going?,SONNY,L593230,
+L593156,Is it like they say?  Is he that good?,MICHAEL,L593148,L593155
+L593155,"Christ, if I could only contact Luca.",SONNY,L593148,L593154
+L593154,"All right, Sonny.  All right.",MICHAEL,L593148,L593153
+L593153,"I know I'm not the man he was.  But I'll tell you this and he'll tell you too.  When it comes to real action, I can operate as good as anybody short range.",SONNY,L593148,L593152
+L593152,That's not how Pop would have played it.,MICHAEL,L593148,L593151
+L593151,"Sollozzo is a dead man, I don't care what it costs.  I don't care if we have to fight all the five families in New York.  The Tattaglia family's going to eat dirt.  I don't care if we all go down together.",SONNY,L593148,L593150
+L593150,"Then wait, Sonny.  Talk to Pop.",MICHAEL,L593148,L593149
+L593149,Until the old man tells me different.,SONNY,L593148,L593148
+L593148,"Is it going to be all-out war, like last time?",MICHAEL,L593148,
+L593147,"On the three days Paulie was sick this month, he got calls from a payphone across from the old man's building.  We got people in the phone company.  Thank God it was Paulie...we'll need Clemenza bad.",SONNY,L593144,L593146
+L593146,How can you be sure?,MICHAEL,L593144,L593145
+L593145,"You're right, kid, Clemenza is okay. It was Paulie.",SONNY,L593144,L593144
+L593144,"Clemenza?  No, I don't believe it.",MICHAEL,L593144,
+L593143,One of them fingered the old man.,SONNY,L593141,L593142
+L593142,What?,MICHAEL,L593141,L593141
+L593141,"All right, Mikey...who do we have to hit, Clemenza or Paulie?",SONNY,L593141,
+L593140,Theresa.,SONNY,L593134,L593139
+L593139,"Jesus Christ, he's my father, Sonny.",MICHAEL,L593134,L593138
+L593138,"Oh no you can't, the old man'd be sore as hell if I let you get mixed up in this.",SONNY,L593134,L593137
+L593137,I can help you out...,MICHAEL,L593134,L593136
+L593136,Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear.,SONNY,L593134,L593135
+L593135,How's Mom?,MICHAEL,L593134,L593134
+L593134,I was worried when we couldn't get in touch with you in that hick town.,SONNY,L593134,
+L593348,Is it all right if I go to the bathroom?,MICHAEL,L593347,L593347
+L593345,Most important...I want a sure guarantee that no more attempts will be made on my father's life.,MICHAEL,L593345,
+L593338,We're going to New Jersey?,MICHAEL,L593338,
+L593334,I want to settle things tonight.  I want my father left alone.,MICHAEL,L593333,L593333
+L593698,I do wish to be baptized.,MICHAEL,L593697,L593697
+L593696,I do renounce them.,MICHAEL,L593693,L593695
+L593694,I do renounce him.,MICHAEL,L593693,L593693
+L593687,"Yes, I promise.",MICHAEL,L593686,L593686
+L593676,He talked to you?,MICHAEL,L593675,L593675
+L593630,No.  I want things very calm for another six months.,MICHAEL,L593629,L593629
+L593618,Be patient.,MICHAEL,L593615,L593617
+L593616,Just be patient.,MICHAEL,L593615,L593615
+L593596,I have to go back to New York tomorrow.  Think of your price.,MICHAEL,L593596,
+L593594,You straightened my brother out?,MICHAEL,L593594,
+L593591,Is that why you thought you could slap Freddie around in public?,MICHAEL,L593584,L593590
+L593589,You took Freddie in because the Corleone family bankrolled your casino.  You and the Corleone family are evened out.  This is for business; name your price.,MICHAEL,L593584,L593588
+L593587,You're unlucky.,MICHAEL,L593584,L593586
+L593585,Your casino loses money.  Maybe we can do better.,MICHAEL,L593584,L593584
+L593583,"The hotel, the casino.  The Corleone family wants to buy you out.",MICHAEL,L593582,L593582
+L593581,Is my credit good enough to buy you out?,MICHAEL,L593578,L593580
+L593579,Thanks.,MICHAEL,L593578,L593578
+L593083,Find out anything you can...you got a Grand coming.,SONNY,L593077,L593082
+L593081,Is he alive?,SONNY,L593077,L593080
+L593079,I think so.  Detective squad?,SONNY,L593077,L593078
+L593077,Yeah.,SONNY,L593077,
