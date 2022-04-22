@@ -19,5 +19,11 @@ In the notebook named **text_mining_model_selection-colab.ipynb** you can make a
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16TOIflO9CPvh8WMYQRDCKT6dZ43PHoPM?usp=sharing)
 
+## Tokenizer fitted on sequences saved
+In the folder named **tokenizer** you can find 2 notebooks in which it has been saved and tested the **Keras Tokenizer**. Since The tokenizer instance needs to be fitted on texts, It has been saved the one fitted on the texts used for the model training. If you use the same tokenizer fitted on different texts it could be risky, reaching different results. Its has been then tested on test data with the model saved and It works well.
+Now it is all ready for the application of the model in the **movie characters emotion detection**.
+
 ## Preprocess the movie utterances
 From the For the movie and TV series dialogues, Cornell Movie-Dialogs Corpus data (https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) it has been selected the movie: **The Godfather** (1972 - Mario Puzo, Francis Ford Coppola). You can find the preprocessing and utterances extraction from the conversations of the movie selected in the notebook renamed **text_mining_preprocess_movie_data.ipynb**, and also find the final dataset saved with the texts and the characters associated. A further selection has been done on the **main chacarters**: _Don Corleone, Tom Hagen, Michael Corleone, Peter Clemenza and Sonny Corleone_.
+
+
