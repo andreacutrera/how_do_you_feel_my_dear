@@ -25,4 +25,8 @@ Now it is all ready for the application of the model in the **movie characters e
 ## Preprocess the movie utterances
 From the Cornell Movie-Dialogs Corpus data (https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) it has been selected the movie: **The Godfather** (_1972 - Mario Puzo, Francis Ford Coppola_). You can find the preprocessing and utterances extraction from the conversations of the movie selected in the notebook renamed **text_mining_preprocess_movie_data.ipynb**, and also find the final dataset saved with the texts and the characters associated. A further selection has been done on the **main chacarters**: _Don Corleone, Tom Hagen, Michael Corleone, Peter Clemenza and Sonny Corleone_.
 
+## Predictions done on the Godfather Characters
+Once taken the **tokenizer** and the **model already trained**, can be done the **predictions** of the **emotions** from dialogues of the film choosen and the characters selected. See the notebook renamed **text_mining_godfather_emotions_predictions.ipynb**. Then the dataset with the predictions done is saved in another _.csv_ file named: **godfather_emotions.csv**.
+
+
 
