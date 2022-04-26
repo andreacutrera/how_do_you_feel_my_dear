@@ -1,5 +1,5 @@
-# how_do_you_feel_my_dear
-NLP project for Text Mining and Sentiment Analysis.
+# How do you feel my dear?
+_Andrea Pio Cutrera (965591) - Università degli Studi di Milano_. NLP project for Text Mining and Sentiment Analysis.
 
 Recently, **emotion detection** in text has received attention in the literature on **sentiment analysis**. Detecting emotions is important for studying **human communication in different domains**, including fictional scripts for TV series and movies. The project aims at studying fictional scripts of several movies and TV series under the emotional profile. In particular, the task of the project is threefold:
 
