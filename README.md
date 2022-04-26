@@ -29,6 +29,6 @@ From the Cornell Movie-Dialogs Corpus data (https://www.cs.cornell.edu/~cristian
 Once taken the **tokenizer** and the **model already trained**, can be done the **predictions** of the **emotions** from dialogues of the film choosen and the characters selected. See the notebook renamed **text_mining_godfather_emotions_predictions.ipynb**. Then the dataset with the predictions done is saved in another _.csv_ file named: **godfather_emotions.csv**.
 
 ## Analysis of the emotional profile of _Godfather_ main characters
-In the notebook named **text_mining_godfather_emotions_analysis.ipynb** it is studied how this emotional profile changes in time along the evolution of the movie story and how it is affected by the various relations among the different characters. In particular it is created a dataframe with couple of speaker and respondent dialogues, and they are analysed the **sentiments of the speakers conditional on the respondents**.
+In the notebook named [**text_mining_godfather_emotions_analysis.ipynb**](/text_mining_godfather_emotions_analysis.ipynb) it is studied how this emotional profile changes in time along the evolution of the movie story and how it is affected by the various relations among the different characters. In particular it is created a dataframe with couple of speaker and respondent dialogues, and they are analysed the **sentiments of the speakers conditional on the respondents**.
 
 [An Internal Link](/godfather_emotions.csv)
