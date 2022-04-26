@@ -31,3 +31,4 @@ Once taken the **tokenizer** and the **model already trained**, can be done the 
 ## Analysis of the emotional profile of _Godfather_ main characters
 In the notebook named **text_mining_godfather_emotions_analysis.ipynb** it is studied how this emotional profile changes in time along the evolution of the movie story and how it is affected by the various relations among the different characters. In particular it is created a dataframe with couple of speaker and respondent dialogues, and they are analysed the **sentiments of the speakers conditional on the respondents**.
 
+[An Internal Link](/godfather_emotions.csv)
